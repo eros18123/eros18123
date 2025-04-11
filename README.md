@@ -37,3 +37,6 @@ Ninguém sabe. Nem eu. E tudo bem.
 Porque no fim, é isso que eu faço:
 Transformo dificuldade em diversão.
 Complexidade em simplicidade.
+
+![ankii](https://github.com/user-attachments/assets/d4130c4c-ae6d-43f8-9568-c5c1cde38976)
+
