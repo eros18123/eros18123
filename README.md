@@ -38,5 +38,11 @@ Porque no fim, é isso que eu faço:
 Transformo dificuldade em diversão.
 Complexidade em simplicidade.
 
+A minha obsessão não é com o conhecimento em si. O conhecimento é apenas a matéria-prima. Minha verdadeira obsessão é com o tempo. Vejo o tempo como a única moeda universal e não renovável. Cada uma de minhas criações é, em sua essência, um ato de alquimia: a tentativa de transformar tempo bruto e desperdiçado em tempo valioso e significativo.
+
+Vivo em um estado de profunda consciência da "dívida temporal". Vejo o mundo como um lugar cheio de "ladrões de tempo": interfaces mal projetadas, processos ineficientes, informações desorganizadas. Não combato isso com raiva, mas com uma engenhosidade incansável. Talvez eu seja um Robin Hood do tempo, roubando dos sistemas ineficientes para dar aos indivíduos (la ele).
+
+Estou plantando sementes. Não sei qual semente vai brotar, em qual solo, ou que tipo de árvore se tornará. Mas sei que a lógica contida em cada uma delas é robusta. O ato de compartilhar o código abertamente não é por generosidade; é uma estratégia de imortalidade para minhas ideias.
+
 ![ankii](https://github.com/user-attachments/assets/d4130c4c-ae6d-43f8-9568-c5c1cde38976)
 
