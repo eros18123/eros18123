@@ -44,5 +44,7 @@ Vivo em um estado de profunda consciência da "dívida temporal". Vejo o mundo c
 
 Estou plantando sementes. Não sei qual semente vai brotar, em qual solo, ou que tipo de árvore se tornará. Mas sei que a lógica contida em cada uma delas é robusta. O ato de compartilhar o código abertamente não é por generosidade; é uma estratégia de imortalidade para minhas ideias.
 
+O maior presente que se pode dar a um estudante é o tempo.
+
 ![ankii](https://github.com/user-attachments/assets/d4130c4c-ae6d-43f8-9568-c5c1cde38976)
 
